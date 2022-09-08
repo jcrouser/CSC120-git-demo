@@ -1,5 +1,5 @@
 def main():
-  print("Hello, student!")
+  print("Hello, there!")
   x = 3 + 5
   print("3 + 5 = ", x)
   
